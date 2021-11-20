@@ -1,6 +1,10 @@
 
 	{
 		"users": [
-
+			"id": 1,
+			"name": "Vlad",
+			"sirname": "Polchyn",
+			"photo_url": "http://sun9-76.userapi.com/impg/xtoRPf_1F5CuoVlsM2ZMcbwgY9iydDjgnWtUug/8mnBgEFQsEc.jpg?size=604x604&quality=96&sign=cd795954a54422373ad609a5be08eb0b&type=album",
+			"balance": 200
 		]
 	}
