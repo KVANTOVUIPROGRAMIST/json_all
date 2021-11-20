@@ -1,6 +1,13 @@
 
 	{
-		"users": [
+		"users ": [
+			{
+				"id" : 2,
+				"name" : "zhopashnik",
+				"sirname" : "neobiknovenniy",
+				"photo_url" : "https://db1223.com/images/6111159/icon/4325985.jpg",
+				"balance" : 500
+			}
 
 		]
 	}
