@@ -7,21 +7,6 @@
 			"sirname": "Polchyn",
 			"photo_url": "http://sun9-76.userapi.com/impg/xtoRPf_1F5CuoVlsM2ZMcbwgY9iydDjgnWtUug/8mnBgEFQsEc.jpg?size=604x604&quality=96&sign=cd795954a54422373ad609a5be08eb0b&type=album",
 			"balance": 200
-		},
-		{
-		"id": 2,
-			"name": "Zhopashnik",
-			"sirname": "Neobiknovenniy",
-			"photo_url": "https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkioGhTe7UVEo-9HNNYPou-6aKTM5SRkZCeTgDn6uOyic",
-			"balance": 400
-		},
-		]
-
-		"products" : [
-			{
-			"pomidor" : 2,
-			"Timur_gey_infa_sotka" : 1,
-			"U_Timura_bilo_3_muzha_i_odin_otchim" : 1
 		}
 		] 
 		
